@@ -30,8 +30,8 @@ public class Application {
 				//############################################
 
 				
-				//Überlegt euch warum man keinen String zu einem char casten kann
-				String s = "ssda";
+				//Ãœberlegt euch warum man keinen String zu einem char casten kann
+				String s = "A";
 //				char  gehtNicht = (char) s;
 				
 				
