@@ -12,4 +12,4 @@ Diese Aufgabe soll euch in das casten von Datentypen einführen. Folgt den Anwei
 Hier noch ein paar nützliche 📃Artikel, 🖊️Threads und 🎥Videos
 
 - [🎥 Java Tutorial for Beginners ](https://www.youtube.com/watch?v=eIrMbAQSU34&t=1076s&ab_channel=ProgrammingwithMosh)
-- [📃 Java Hello World](https://www.w3schools.com/java/java_type_casting.asp)
+- [📃 Java Casting](https://www.w3schools.com/java/java_type_casting.asp)
