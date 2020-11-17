@@ -12,5 +12,5 @@ Diese Aufgabe soll euch in das casten von Datentypen einführen. Folgt den Anwei
 Hier noch ein paar nützliche 📃Artikel, 🖊️Threads und 🎥Videos
 
 - [🎥 Java Tutorial for Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34&t=1076s&ab_channel=ProgrammingwithMosh)
-- [🎥 Java Type Casting Tutorial](https://www.youtube.com/watch?v=H0LNjF9PSeM&ab_channel=AlexLee)
+- [🎥 Java Type Casting Tutorial - Ab 1:00](https://www.youtube.com/watch?v=H0LNjF9PSeM&ab_channel=AlexLee)
 - [📃 Java Casting](https://www.w3schools.com/java/java_type_casting.asp)
